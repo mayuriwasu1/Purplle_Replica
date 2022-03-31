@@ -11,13 +11,9 @@
 ---
 ## Tech Stack 🔧
 #### Front-end
-- `EJS`
-- `CSS3`
-- `Advanced JavaScript`
+- `EJS`, `CSS3`, `Advanced JavaScript`
 #### Back-end
-- `mongoDB`
-- `Nodejs`
-- `Expressjs`
+- `mongoDB`, `Nodejs`, `Expressjs`
 #### Data Base
 - `MongoDB Atlas`
 ---
