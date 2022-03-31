@@ -6,11 +6,10 @@
 ##### This is clone website of purplle.com. Purplle is an ecommerse website where user can buy all kinds of beauty products.
 ---
 ## [Deployement ](https://purplle--clone.herokuapp.com/)🔗
----
+
 ## [Blog Link](https://medium.com/@mayuriwasu2000/purplle-replica-2b62d88166f7)🌐
 ---
 ## Tech Stack 🔧
----
 #### Front-end
 - `EJS`
 - `CSS3`
