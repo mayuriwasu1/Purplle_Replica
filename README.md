@@ -9,7 +9,7 @@
 
 ## [Blog Link](https://medium.com/@mayuriwasu2000/purplle-replica-2b62d88166f7)🌐
 ---
-## Tech Stack 🔧
+## Tech Stack 🛠️
 #### Front-end
 - `EJS`, `CSS3`, `Advanced JavaScript`
 #### Back-end
@@ -17,7 +17,7 @@
 #### Data Base
 - `MongoDB Atlas`
 ---
-## Features 
+## Features ✔️
 ##### - Google Authentication.
 ##### - User can buy any type of beauty product.
 ##### - They can use this website from any device.
